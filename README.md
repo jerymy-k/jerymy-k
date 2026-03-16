@@ -2,7 +2,7 @@
 
 <!-- BANNER -->
 <!-- ANIMATED HEADER -->
-<img width="100%" src="./header.svg" alt="Mohamed ELKERYMY — Full Stack Developer" />
+<img width="100%" src="./banner.svg" alt="Mohamed ELKERYMY — Full Stack Developer" />
 </div>
 
 <br/>
