@@ -60,7 +60,7 @@ $developer = [
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark&bg_color=0d1117&title_color=5eead4&icon_color=5eead4&text_color=ffffff&border_color=134e4a&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerymy-k&show_icons=true&theme=dark&bg_color=0d1117&title_color=5eead4&icon_color=5eead4&text_color=ffffff&border_color=134e4a&hide_border=false" />
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=5eead4&text_color=ffffff&border_color=134e4a&hide_border=false" />
 
