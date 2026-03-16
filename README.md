@@ -62,13 +62,13 @@ $developer = [
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jerymy-k&show_icons=true&theme=dark&bg_color=0d1117&title_color=5eead4&icon_color=5eead4&text_color=ffffff&border_color=134e4a&hide_border=false" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark&bg_color=0d1117&title_color=5eead4&text_color=ffffff&border_color=134e4a&hide_border=false" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerymy-k&layout=compact&theme=dark&bg_color=0d1117&title_color=5eead4&text_color=ffffff&border_color=134e4a&hide_border=false" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&background=0d1117&ring=5eead4&fire=5eead4&currStreakLabel=5eead4&sideLabels=ffffff&dates=888888&border=134e4a" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jerymy-k&theme=dark&background=0d1117&ring=5eead4&fire=5eead4&currStreakLabel=5eead4&sideLabels=ffffff&dates=888888&border=134e4a" />
 
 </div>
 
@@ -97,7 +97,7 @@ $developer = [
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=134e4a&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=jerymy-k&style=for-the-badge&color=134e4a&label=PROFILE+VIEWS" />
 
 </div>
 
