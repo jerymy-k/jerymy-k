@@ -8,12 +8,6 @@
 <br/>
 
 <div align="center">
-
-```
-◆  Crafting elegant, scalable web solutions  ◆
-◆  Turning complex problems into clean code  ◆
-```
-
 </div>
 
 ---
