@@ -1,8 +1,8 @@
 <div align="center">
 
 <!-- BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0,0d1117,134e4a&height=200&section=header&text=Mohamed%20ELKERYMY&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20PHP%20%C2%B7%20Laravel%20%C2%B7%20MySQL&descAlignY=58&descSize=18&descColor=5eead4" />
-
+<!-- ANIMATED HEADER -->
+<img width="100%" src="./header.svg" alt="Mohamed ELKERYMY — Full Stack Developer" />
 </div>
 
 <br/>
