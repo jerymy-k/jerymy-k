@@ -1,14 +1,11 @@
 <div align="center">
 
 <!-- BANNER -->
-<!-- ANIMATED HEADER -->
 <img width="100%" src="./banner.svg" alt="Mohamed ELKERYMY — Full Stack Developer" />
+
 </div>
 
 <br/>
-
-<div align="center">
-</div>
 
 ---
 
@@ -63,6 +60,30 @@ $developer = [
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=jerymy-k&theme=dark&background=0d1117&ring=5eead4&fire=5eead4&currStreakLabel=5eead4&sideLabels=ffffff&dates=888888&border=134e4a" />
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jerymy-k/jerymy-k/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jerymy-k/jerymy-k/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jerymy-k/jerymy-k/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jerymy-k&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
